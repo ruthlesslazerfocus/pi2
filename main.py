@@ -1,8 +1,9 @@
 
 def main(msg):
+    // no longerneed comments
     print(msg)
-//made yet another change s
-//but this is a different message
-//made some changes in this hope you like
 
+def secondary ():
+    print("New Function")
+    
 main("Hello People!")
